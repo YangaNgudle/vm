@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Cabin-Bold;
+    src: url(Cabin-Bold.otf);
+ }
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: Cabin-Bold;
+	
+}
+
